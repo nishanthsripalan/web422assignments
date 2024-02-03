@@ -1,3 +1,17 @@
+/********************************************************************************
+*  WEB422 – Assignment 1
+* 
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Sripalan Nishanth Student ID: 137967220 Date: 02-02-24
+*
+*  Published URL: ___________________________________________________________
+*
+********************************************************************************/
+
 const express = require('express');
 const app = express();
 const ListingsDB = require("./modules/listingsDB.js");
