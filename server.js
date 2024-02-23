@@ -8,7 +8,7 @@
 * 
 *  Name: Sripalan Nishanth Student ID: 137967220 Date: 02-02-24
 *
-*  Published URL: ___________________________________________________________
+*  Published URL: https://jolly-pink-drawers.cyclic.app/
 *
 ********************************************************************************/
 
